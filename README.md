@@ -4,11 +4,9 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently learning to code in C++ <br>🎯 Goals: Get good grades!<br>🎲 Fun fact: This is a fun fact</p>
+<img align="left" height="140" src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif"  />
 
-<br clear="both">
-
-<img align="left" height="103" src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif"  />
+<p align="left"><br>&nbsp&nbsp&nbsp&nbsp&nbsp✨ Creating bugs since 2020<br>&nbsp&nbsp&nbsp&nbsp&nbsp📚 Currently learning to code in C++ <br>&nbsp&nbsp&nbsp&nbsp&nbsp🎯 Goals: Get good grades!<br>&nbsp&nbsp&nbsp&nbsp&nbsp🎲 Fun fact: This is a fun fact</p>
 
 <br clear="both">
 
@@ -23,8 +21,6 @@
 </div>
 
 <h2 align="left">Courses</h2>
-
-<br clear="both">
 
 <p align="left">Bachelor of Computer Science (Graphics and Multimedia Software)<br>2023 - 2027<br>Universiti Teknologi Malaysia<br><br>Foundation in Physical Science<br>2022 - 2023<br>Universiti Teknologi Malaysia</p>
 
