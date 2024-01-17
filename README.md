@@ -1,13 +1,61 @@
-<h1 align="center">Hi 👋, I'm Cheng Kang Huey</h1>
-<h3 align="center">A first year student in Bachelor in Computer Science (Computer Graphics and Multimedia Software) at Universiti Teknologi Malaysia</h3>
+<h1 align="left">Hey there!👋</h1>
 
-- 📫 How to reach me **chenghuey@graduate.utm.my**
+<p align="left">I am Cheng Kang Huey, a first-year student currently pursuing a degree in Graphics and Multimedia Software at Universiti Teknologi Malaysia (UTM).</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kanghueyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanghueyy" height="30" width="40" /></a>
-<a href="https://instagram.com/kh__0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kh__0608" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br clear="both">
+
+<img align="left" height="140" src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif"  />
+
+
+<p align="left">&nbsp&nbsp&nbsp&nbsp&nbsp✨ Creating bugs since 2020<br>&nbsp&nbsp&nbsp&nbsp&nbsp📚 Currently learning to code in C++ <br>&nbsp&nbsp&nbsp&nbsp&nbsp🎯 Goals: Get good grades!<br>&nbsp&nbsp&nbsp&nbsp&nbsp🎲 Fun fact: This is a fun fact</p>
+
+<br clear="both">
+
+<h2 align="left">Skills</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+<h2 align="left">Courses</h2>
+
+<p align="left">Bachelor of Computer Science (Graphics and Multimedia Software)<br>2023 - 2027<br>Universiti Teknologi Malaysia<br><br>Foundation in Physical Science<br>2022 - 2023<br>Universiti Teknologi Malaysia</p>
+
+<h2 align="left">Honors and Awards</h2>
+
+<p align="left">Graduated from Foundation in Physical Science<br>2023<br>Universiti Teknologi Malaysia</p>
+
+<h2 align="left">Assignments</h2>
+
+<p align="left">Assignment 1<br>Assignment 2<br>Assignment 3<br>Assignment 4<br>PC Assemble (Lab)<br>Design Thinking (Low Fidelity Prototype)</p>
+
+<h2 align="left">Reflections</h2>
+
+<p align="left"> **Assignment 1** <br>The visit to NALI2023 and the interview sessions help me learn the course materials better by learning more about the innovations in ICT that can potentially improve our education. I get to see the application of technology in teaching and learning with my own eyes and understand more about each of them through interviews with the NALI2023 participants. Overall, visiting NALI2023 has encouraged me to learn more about our course materials and helps me to grasp more knowledge about technology and information systems.<br><br>Assignment 2<br>Through this talk, I learnt that it is important for us to adapt to the dynamic ICT landscape by nurturing essential skills, fostering teamwork, and embracing a proactive approach to continuous learning. This talk has motivated me to work hard and gain more hands-on experience while I am still studying to prepare for my career in the future.<br><br>Assignment 3<br>From the visit to UTMDigital, I have learnt more about the digital systems and services in UTM, such as UTMWiFi, e-learning platforms, and the UTM Data Centre. We were also able to visit each of the sites in person and learn more about their usage and specialities. It had also taught me ways we can take advantage of newest technology such as the Huawei IdeaHub to make collaborations and communication in our daily lives easier. Overall, it was a fulfilling trip as I am able to gain more knowledge and experience that are helpful for my studies in the future.<br><br>Assignment 4<br>In the next four years, I plan to continuously learn and gain more knowledge such as emerging technologies, programming languages, and frameworks in system development. From the talk, I also realised the importance of gaining practical experience through hands-on practice and internships before securing a job. Apart from programming skills, I will also actively develop and master soft skills such as communication skills, time management skills, and problem-solving skills. I aim to contribute meaningfully to the evolving tech industry as a skilled and proficient system developer.<br><br>PC Assemble (Lab)<br>From the PC sssembling activity, I learnt about the components used in a PC such as hard disks, fans, and power supplies. I also learnt the steps of disassembling and assembling a PC.<br><br>Design Thinking (Low Fidelity Prototype)</p>
+
+<h2 align="left">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanghuey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kanghuey/count.svg?"  />
+</div>
+
+<h2 align="left">Contact Me</h2>
+
+<div align="left">
+  <a href="mailto:chenghuey@graduate.utm.my" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/kanghueyy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
