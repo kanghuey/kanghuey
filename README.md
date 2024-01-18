@@ -30,8 +30,16 @@
 
 <h2 align="left">Assignments</h2>
 
-<p align="left"><a href="https://github.com/kanghuey/kanghuey/blob/87ea04e9970f40ccd7abe3df94ba543daf01dd99/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023.pdf">Assignment 1</a><br>
-<a href="https://github.com/kanghuey/kanghuey/blob/87ea04e9970f40ccd7abe3df94ba543daf01dd99/ASSIGNMENT%202%20-%20INDUSTRY%20TALK%201.pdf">Assignment 2</a><br><a href="https://youtu.be/3FbHJD4fgBo?si=8ek9JAoC0HG8a5fc">Assignment 3</a><br>Assignment 4<br>PC Assemble (Lab)<br>Design Thinking (Low Fidelity Prototype)</p>
+<p align="left">
+<ol>
+  <li><a href="https://github.com/kanghuey/kanghuey/blob/87ea04e9970f40ccd7abe3df94ba543daf01dd99/ASSIGNMENT%201%20-%20REPORT%20ON%20VISIT%20TO%20NALI%202023.pdf">Assignment 1</a></li>
+  <li><a href="https://github.com/kanghuey/kanghuey/blob/87ea04e9970f40ccd7abe3df94ba543daf01dd99/ASSIGNMENT%202%20-%20INDUSTRY%20TALK%201.pdf">Assignment 2</a></li>
+  <li><a href="https://youtu.be/3FbHJD4fgBo?si=8ek9JAoC0HG8a5fc" target="_blank">Assignment 3</li>
+  <li><a href="https://github.com/kanghuey/kanghuey/blob/33d2f0afde4a9ab8b0d7b4e76221db6a3624c3e4/ASSIGNMENT%204%20-%20INDUSTRY%20TALK%202.pdf">Assignment 4</li>
+    <li><a href="">PC Assemble (Lab)</li>
+    <li>Design Thinking (Low Fidelity Prototype)</li>
+</ol>
+
 
 <h2 align="left">Reflections</h2>
 
