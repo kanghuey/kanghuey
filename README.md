@@ -37,7 +37,7 @@
   <li><a href="https://youtu.be/3FbHJD4fgBo?si=8ek9JAoC0HG8a5fc" target="_blank">Assignment 3</li>
   <li><a href="https://github.com/kanghuey/kanghuey/blob/33d2f0afde4a9ab8b0d7b4e76221db6a3624c3e4/ASSIGNMENT%204%20-%20INDUSTRY%20TALK%202.pdf">Assignment 4</li>
     <li><a href="https://github.com/kanghuey/kanghuey/blob/e34d55fe2dcd46cd5922c803e57a2f5b0b2a92e2/PC%20ASSEMBLE%20(LAB).jpg">PC Assemble (Lab)</li>
-    <li>Design Thinking (Low Fidelity Prototype)</li>
+    <li><a href="https://github.com/kanghuey/kanghuey/blob/2c0b513e5924815d2b407d376f602ff73bf56841/DESIGN%20THINKING%20(LOW%20FIDELITY%20PROTOTYPE).pdf">Design Thinking (Low Fidelity Prototype)</li>
 </ol>
 
 
