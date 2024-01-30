@@ -65,9 +65,7 @@
 
 <h3 align="left">Design Thinking (Low Fidelity Prototype)</h3>
 
-<p align="left">My goal in regard to my course is to gain enough experience through comprehensive learning and hands-on practice. I aim to equip myself with required skills in the graphics and multimedia software field such as programming and designing skills.<br><br>
-By participating in this design thinking process, I have learnt that there is a systematic approach to take when finding solutions for a specific problem. This has improved my problem-solving and communications skills as we all suggested and discussed our own ideas. I have gained a lot of insight through design thinking on how to contribute ideas and turn them into a tangible product, which is a skill that would help me to reach my goal of preparing myself for my future career. <br> <br>
-To improve my potential in the industry, it is important for me to actively stay updated on emerging technologies and industry trends. This proactive approach will ensure that my knowledge remains relevant, allowing me to adapt to the evolving landscape of the graphics and multimedia software field. Continuous learning about advancements will not only enhance my skill set but also position me as a valuable asset in the competitive industry I aim to thrive in.</p>
+<p align="left">My objective is to gain comprehensive experience and skills in graphics and multimedia software, encompassing both programming and design. Engaging in the design thinking process has enhanced my problem-solving and communication abilities, providing valuable insights into transforming ideas into tangible products. To excel in the industry, I recognize the importance of staying updated on emerging technologies and trends. Continuous learning will not only enhance my skill set but also position me as a valuable asset in the competitive graphics and multimedia software field, aligning with my goal of preparing for a successful career.</p>
 
 <h2 align="left">GitHub Stats</h2>
 
