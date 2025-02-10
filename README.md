@@ -1,6 +1,6 @@
 <h1 align="left">Hey there!👋</h1>
 
-<p align="left">I am Cheng Kang Huey, a first-year student currently pursuing a degree in Graphics and Multimedia Software at Universiti Teknologi Malaysia (UTM).</p>
+<p align="left">I am Cheng Kang Huey, a second-year student currently pursuing a degree in Graphics and Multimedia Software at Universiti Teknologi Malaysia (UTM).</p>
 
 <h2 align="left">About me</h2>
 
