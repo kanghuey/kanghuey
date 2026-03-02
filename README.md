@@ -1,12 +1,12 @@
 <h1 align="left">Hey there!👋</h1>
 
-<p align="left">I am Cheng Kang Huey, a second-year student currently pursuing a degree in Graphics and Multimedia Software at Universiti Teknologi Malaysia (UTM).</p>
+<p align="left">I am Cheng Kang Huey, a third-year student currently pursuing a degree in Graphics and Multimedia Software at Universiti Teknologi Malaysia (UTM).</p>
 
 <h2 align="left">About me</h2>
 
 <img align="left" height="140" src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif"  />
 
-<p align="left"><br>&nbsp&nbsp&nbsp&nbsp&nbsp✨ Creating bugs since 2020<br>&nbsp&nbsp&nbsp&nbsp&nbsp📚 Currently learning to code in C++ <br>&nbsp&nbsp&nbsp&nbsp&nbsp🎯 Goals: Get good grades!<br>&nbsp&nbsp&nbsp&nbsp&nbsp🎲 Fun fact: This is a fun fact</p>
+<p align="left"><br>&nbsp&nbsp&nbsp&nbsp&nbsp✨ Creating bugs since 2020<br>&nbsp&nbsp&nbsp&nbsp&nbsp📚 Currently learning to code in C++ <br>&nbsp&nbsp&nbsp&nbsp&nbsp🎯 Goals: Get good grades<br>&nbsp&nbsp&nbsp&nbsp&nbsp🎲 Fun fact: I am similarly passionate about arts and games!</p>
 
 <br clear="both">
 
